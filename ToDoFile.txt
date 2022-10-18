@@ -1,0 +1,41 @@
+- Format Dates correctly to put into database
+
+- Create a Front end website
+
+- Buy Domain for public hosting
+
+- Look into code Security 
+
+- Clean up code
+
+- Look into CSS and HTML development shit for front end design
+
+[x] Kill NaN issue (Done - Database datatypes were weird so I changed those) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

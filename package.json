@@ -1,0 +1,24 @@
+{
+  "name": "move",
+  "version": "1.0.0",
+  "main": "move.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jquery": "^3.6.1",
+    "mongodb": "^4.10.0",
+    "sqlite3": "^5.1.2",
+    "tmi.js": "^1.5.0",
+    "websocket": "^1.0.34",
+    "winston": "^3.8.2",
+    "winston-better-sqlite3": "^1.0.4",
+    "winston-mongodb": "^5.1.0",
+    "winston-mysql": "^1.1.1"
+  },
+  "keywords": [],
+  "description": ""
+}

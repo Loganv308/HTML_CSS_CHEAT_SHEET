@@ -1,0 +1,13 @@
+info: Oct-17-2022 17:00:00: 	Server started and running on http://localhost:3000
+info: Oct-17-2022 17:00:30: 	Server started and running on http://localhost:3000
+info: Oct-17-2022 17:00:49: 	Server Sent A Hello World!
+error: Oct-17-2022 17:00:50: 	400 || Not Found - /favicon.ico - GET - ::1
+info: Oct-17-2022 17:06:40: 	Server started and running on http://localhost:3000
+info: Oct-17-2022 17:06:59: 	Server Sent A Hello World!
+info: Oct-17-2022 17:07:45: 	Server Sent A Hello World!
+info: Oct-17-2022 17:07:55: 	Server started and running on http://localhost:3000
+info: Oct-17-2022 17:07:57: 	Server Sent A Hello World!
+info: Oct-17-2022 17:08:34: 	Server started and running on http://localhost:3000
+info: Oct-17-2022 17:08:39: 	Server started and running on http://localhost:3000
+info: Oct-17-2022 17:08:41: 	Server Sent A Hello World!
+info: Oct-17-2022 21:45:01: 	Server started and running on http://localhost:3000
